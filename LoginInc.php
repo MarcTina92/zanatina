@@ -96,7 +96,7 @@ require_once('functions/langFnc.php');
                     <div class="logo">
                         <img src="assets/images/opensis_logo.png" alt="openSIS" />
                     </div>                    
-                    <h3><?= _studentInformationSyste ?></h3>
+                    <h3><?= _studentInformationSystem?></h3>
                 </div>
                 <div class="panel-body">
 

@@ -220,7 +220,7 @@ require_once('functions/langFnc.php');
                 </div>-->
             </div>
             <footer>
-                <!-- openSisIsAProductOfOpenSolutionsForEducationInc. (<a href="http://www.os4ed.com">OS4ED</a>) and is licensed under the <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPL license</a>. -->
+                <!-- ZanaSchool. (<a href="http://www.os4ed.com">OS4ED</a>) and is licensed under the <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPL license</a>. -->
                 <?= _footerText ?>
             </footer>
 

@@ -23,8 +23,8 @@ define("_selectedStaff", "Le personnel sélectionné");
 define("_backToUserList", "Retour à la liste des utilisateurs");
 define("_deselect", "Désélectionner");
 define("_missingAttendanceDataListCreated", "Manquante liste des données de fréquentation créé");
-define("_openSisIsAProductOfOpenSolutionsForEducationInc", "openSIS est un produit d'Open Solutions for Education, Inc");
-define("_footerText", "openSIS est un produit d'Open Solutions for Education, Inc. (<a href=\"http://www.os4ed.com\">OS4ED</a>) et est sous <a href=\"http://www.gnu.org/licenses/gpl.html\" target=\"_blank\">licence GPL</a>.");
+define("_ZanaSchool", "ZanaSchool - Zanaverse");
+define("_footerText", "ZanaSchool (Zanaverse) Inc. (<a href=\"http://www.zanaschool.com\">ZanaSchool</a>)et est sous <a href=\"http://www.gnu.org/licenses/gpl.html\" target=\"_blank\">licence GPL</a>.");
 //SCHOOL SETUP
 define("_cannotDeleteBecauseStudentsAreEnrolledInThisCalendar", "Impossible de supprimer car les étudiants sont inscrits dans ce calendrier");
 define("_cannotUploadFileOnlyJpgJpegPngGifFilesAreAllowed", "Impossible de télécharger le fichier. Seuls les fichiers jpg, jpeg, png, gif sont autorisés");

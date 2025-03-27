@@ -1,5 +1,5 @@
 <?php
-define("_studentInformationSystem", "Zana School");
+define("_studentInformationSystem", "ZanaSchool");
 define("_systemPreferences", "Préférences de système");
 define("_setHalfDayAndFullDayMinutes", "Définir les minutes d'une demi-journée et d'une journée complète");
 define("_setLoginFailureAllowanceCount", "Définir le nombre d'allocations d'échec de connexion");
@@ -24,7 +24,7 @@ define("_backToUserList", "Retour à la liste des utilisateurs");
 define("_deselect", "Désélectionner");
 define("_missingAttendanceDataListCreated", "Manquante liste des données de fréquentation créé");
 define("_ZanaSchool", "ZanaSchool - Zanaverse");
-define("_footerText", "ZanaSchool (Zanaverse) Inc. (<a href=\"http://www.zanaschool.com\">ZanaSchool</a>)et est sous <a href=\"http://www.gnu.org/licenses/gpl.html\" target=\"_blank\">licence GPL</a>.");
+define("_footerText", "ZanaSchool (Zanaverse) Inc. (<a href=\"http://www.zanaschool.com\">ZanaSchool</a>)et est sous licence GPL</a>.");
 //SCHOOL SETUP
 define("_cannotDeleteBecauseStudentsAreEnrolledInThisCalendar", "Impossible de supprimer car les étudiants sont inscrits dans ce calendrier");
 define("_cannotUploadFileOnlyJpgJpegPngGifFilesAreAllowed", "Impossible de télécharger le fichier. Seuls les fichiers jpg, jpeg, png, gif sont autorisés");
